@@ -1,20 +1,32 @@
 {
-    "name": "bootstrap5-snippets",
-    "displayName": "bootstrap5-snippets",
-    "description": "\"Demo\"",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.66.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "'html','css'",
-                "path": "./snippets/snippets.code-snippets"
-            }
-        ]
-    }
+  "name": "bootstrap5-snippets",
+  "displayName": "bootstrap5-snippets",
+  "description": "\"Demo\"",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/bootstrap.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/buttons/buttons.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/buttons/buttons-outlines.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/buttons/buttons-sizes.code-snippets"
+      }
+    ]
+  }
 }

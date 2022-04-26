@@ -1,0 +1,82 @@
+{
+  // btn-link
+  "btn-link": {
+    "prefix": "bs5-btn-link",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-link\">${1:Link}</button>${0}"
+    ],
+    "description": "bs5-btn-link"
+  },
+
+  // btn-primary
+  "btn-primary": {
+    "prefix": "bs5-btn-primary",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-primary\">${1:primary}</button>${0}"
+    ],
+    "description": "bs5-btn-primary"
+  },
+
+  // btn-secondary
+  "btn-secondary": {
+    "prefix": "bs5-btn-secondary",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-secondary\">${1:secondary}</button>${0}"
+    ],
+    "description": "bs5-btn-secondary"
+  },
+
+  // btn-success
+  "btn-success": {
+    "prefix": "bs5-btn-success",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-success\">${1:success}</button>${0}"
+    ],
+    "description": "bs5-btn-success"
+  },
+
+  // btn-danger
+  "btn-danger": {
+    "prefix": "bs5-btn-danger",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-danger\">${1:danger}</button>${0}"
+    ],
+    "description": "bs5-btn-danger"
+  },
+
+  // btn-warning
+  "btn-warning": {
+    "prefix": "bs5-btn-warning",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-warning\">${1:warning}</button>${0}"
+    ],
+    "description": "bs5-btn-warning"
+  },
+
+  // btn-info
+  "btn-info": {
+    "prefix": "bs5-btn-info",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-info\">${1:info}</button>${0}"
+    ],
+    "description": "bs5-btn-info"
+  },
+
+  // btn-light
+  "btn-light": {
+    "prefix": "bs5-btn-light",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-light\">${1:light}</button>${0}"
+    ],
+    "description": "bs5-btn-light"
+  },
+
+  // btn-dark
+  "btn-dark": {
+    "prefix": "bs5-btn-dark",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-dark\">${1:dark}</button>${0}"
+    ],
+    "description": "bs5-btn-dark"
+  }
+}
