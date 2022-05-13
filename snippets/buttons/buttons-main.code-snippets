@@ -1,0 +1,73 @@
+{
+  "btn-primary": {
+    "prefix": "btn-primary",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-primary\">${1:Primary}</button>${0}"
+    ],
+    "description": "btn-primary"
+  },
+
+  "btn-secondary": {
+    "prefix": "btn-secondary",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-secondary\">${1:Secondary}</button>${0}"
+    ],
+    "description": "btn-secondary"
+  },
+
+  "btn-success": {
+    "prefix": "btn-success",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-success\">${1:Success}</button>${0}"
+    ],
+    "description": "btn-secondary"
+  },
+
+  "btn-danger": {
+    "prefix": "btn-danger",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-danger\">${1:Danger}</button>${0}"
+    ],
+    "description": "btn-danger"
+  },
+
+  "btn-warning": {
+    "prefix": "btn-warning",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-warning\">${1:Warning}</button>${0}"
+    ],
+    "description": "btn-warning"
+  },
+
+  "btn-info": {
+    "prefix": "btn-info",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-info\">${1:Info}</button>${0}"
+    ],
+    "description": "btn-info"
+  },
+
+  "btn-light": {
+    "prefix": "btn-light",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-light\">${1:Light}</button>${0}"
+    ],
+    "description": "btn-light"
+  },
+
+  "btn-dark": {
+    "prefix": "btn-dark",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-dark\">${1:Dark}</button>${0}"
+    ],
+    "description": "btn-dark"
+  },
+
+  "btn-link": {
+    "prefix": "btn-link",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-link\">${1:Link}</button>${0}"
+    ],
+    "description": "btn-link"
+  }
+}

@@ -17,15 +17,7 @@
       },
       {
         "language": "html",
-        "path": "./snippets/buttons/buttons.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/buttons/buttons-outlines.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/buttons/buttons-sizes.code-snippets"
+        "path": "./snippets/buttons/buttons-main.code-snippets"
       }
     ]
   }
