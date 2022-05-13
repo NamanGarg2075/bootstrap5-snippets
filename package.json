@@ -17,7 +17,11 @@
       },
       {
         "language": "html",
-        "path": "./snippets/buttons/buttons-main.code-snippets"
+        "path": "./snippets/buttons/simple/buttons-main.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/buttons/outline/buttons-outline.code-snippets"
       }
     ]
   }

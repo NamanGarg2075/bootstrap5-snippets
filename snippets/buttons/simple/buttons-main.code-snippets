@@ -20,7 +20,7 @@
     "body": [
       "<button type=\"button\" class=\"btn btn-success\">${1:Success}</button>${0}"
     ],
-    "description": "btn-secondary"
+    "description": "btn-success"
   },
 
   "btn-danger": {

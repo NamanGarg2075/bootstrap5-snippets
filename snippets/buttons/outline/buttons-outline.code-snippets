@@ -1,0 +1,73 @@
+{
+  "btn-outline-primary": {
+    "prefix": "btn-outline-primary",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-primary\">${1:Primary}</button>${0}"
+    ],
+    "description": "btn-outline-primary"
+  },
+
+  "btn-outline-secondary": {
+    "prefix": "btn-outline-secondary",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-secondary\">${1:Secondary}</button>${0}"
+    ],
+    "description": "btn-outline-secondary"
+  },
+
+  "btn-outline-success": {
+    "prefix": "btn-outline-success",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-success\">${1:Success}</button>${0}"
+    ],
+    "description": "btn-outline-success"
+  },
+
+  "btn-outline-danger": {
+    "prefix": "btn-outline-danger",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-danger\">${1:Danger}</button>${0}"
+    ],
+    "description": "btn-outline-danger"
+  },
+
+  "btn-outline-warning": {
+    "prefix": "btn-outline-warning",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-warning\">${1:Warning}</button>${0}"
+    ],
+    "description": "btn-outline-warning"
+  },
+
+  "btn-outline-info": {
+    "prefix": "btn-outline-info",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-info\">${1:Info}</button>${0}"
+    ],
+    "description": "btn-outline-info"
+  },
+
+  "btn-outline-light": {
+    "prefix": "btn-outline-light",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-light\">${1:Light}</button>${0}"
+    ],
+    "description": "btn-outline-light"
+  },
+
+  "btn-outline-dark": {
+    "prefix": "btn-outline-dark",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-dark\">${1:Dark}</button>${0}"
+    ],
+    "description": "btn-outline-dark"
+  },
+
+  "btn-link": {
+    "prefix": "btn-link",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-link\">${1:Link}</button>${0}"
+    ],
+    "description": "btn-link"
+  }
+}
