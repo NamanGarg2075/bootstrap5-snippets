@@ -1,0 +1,147 @@
+{
+  // large size
+  "btn-primary-btn-lg": {
+    "prefix": "btn-primary btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-primary btn-lg\">${1:Primary}</button>${0}"
+    ],
+    "description": "btn-primary btn-lg"
+  },
+
+  "btn-secondary-btn-lg": {
+    "prefix": "btn-secondary-btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-secondary btn-lg\">${1:Secondary}</button>${0}"
+    ],
+    "description": "btn-secondary-btn-lg"
+  },
+
+  "btn-success-btn-lg": {
+    "prefix": "btn-success-btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-success btn-lg\">${1:Success}</button>${0}"
+    ],
+    "description": "btn-success btn-lg"
+  },
+
+  "btn-danger-btn-lg": {
+    "prefix": "btn-danger-btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-danger btn-lg\">${1:Danger}</button>${0}"
+    ],
+    "description": "btn-danger-btn-lg"
+  },
+
+  "btn-warning-btn-lg": {
+    "prefix": "btn-warning-btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-warning btn-lg\">${1:Warning}</button>${0}"
+    ],
+    "description": "btn-warning-btn-lg"
+  },
+
+  "btn-info-btn-lg": {
+    "prefix": "btn-info-btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-info btn-lg\">${1:Info}</button>${0}"
+    ],
+    "description": "btn-info-btn-lg"
+  },
+
+  "btn-light-btn-lg": {
+    "prefix": "btn-light-btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-light btn-lg\">${1:Light}</button>${0}"
+    ],
+    "description": "btn-light-btn-lg"
+  },
+
+  "btn-dark-btn-lg": {
+    "prefix": "btn-dark-btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-dark btn-lg\">${1:Dark}</button>${0}"
+    ],
+    "description": "btn-dark-btn-lg"
+  },
+
+  "btn-link-btn-lg": {
+    "prefix": "btn-link-btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-link btn-lg\">${1:Link}</button>${0}"
+    ],
+    "description": "btn-link-btn-lg"
+  },
+
+  //   small size
+  "btn-primary-btn-sm": {
+    "prefix": "btn-primary btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-primary btn-sm\">${1:Primary}</button>${0}"
+    ],
+    "description": "btn-primary btn-sm"
+  },
+
+  "btn-secondary-btn-sm": {
+    "prefix": "btn-secondary-btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-secondary btn-sm\">${1:Secondary}</button>${0}"
+    ],
+    "description": "btn-secondary-btn-sm"
+  },
+
+  "btn-success-btn-sm": {
+    "prefix": "btn-success-btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-success btn-sm\">${1:Success}</button>${0}"
+    ],
+    "description": "btn-success btn-sm"
+  },
+
+  "btn-danger-btn-sm": {
+    "prefix": "btn-danger-btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-danger btn-sm\">${1:Danger}</button>${0}"
+    ],
+    "description": "btn-danger-btn-sm"
+  },
+
+  "btn-warning-btn-sm": {
+    "prefix": "btn-warning-btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-warning btn-sm\">${1:Warning}</button>${0}"
+    ],
+    "description": "btn-warning-btn-sm"
+  },
+
+  "btn-info-btn-sm": {
+    "prefix": "btn-info-btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-info btn-sm\">${1:Info}</button>${0}"
+    ],
+    "description": "btn-info-btn-sm"
+  },
+
+  "btn-light-btn-sm": {
+    "prefix": "btn-light-btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-light btn-sm\">${1:Light}</button>${0}"
+    ],
+    "description": "btn-light-btn-sm"
+  },
+
+  "btn-dark-btn-sm": {
+    "prefix": "btn-dark-btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-dark btn-sm\">${1:Dark}</button>${0}"
+    ],
+    "description": "btn-dark-btn-sm"
+  },
+
+  "btn-link-btn-sm": {
+    "prefix": "btn-link-btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-link btn-sm\">${1:Link}</button>${0}"
+    ],
+    "description": "btn-link-btn-sm"
+  }
+}

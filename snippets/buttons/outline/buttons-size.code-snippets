@@ -1,0 +1,131 @@
+{
+  // large size
+  "btn-outline-primary-btn-lg": {
+    "prefix": "btn-outline-primary btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-primary btn-lg\">${1:Primary}</button>${0}"
+    ],
+    "description": "btn-outline-primary btn-lg"
+  },
+
+  "btn-outline-secondary-btn-lg": {
+    "prefix": "btn-outline-secondary-btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-secondary btn-lg\">${1:Secondary}</button>${0}"
+    ],
+    "description": "btn-outline-secondary-btn-lg"
+  },
+
+  "btn-outline-success-btn-lg": {
+    "prefix": "btn-outline-success-btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-success btn-lg\">${1:Success}</button>${0}"
+    ],
+    "description": "btn-outline-success btn-lg"
+  },
+
+  "btn-outline-danger-btn-lg": {
+    "prefix": "btn-outline-danger-btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-danger btn-lg\">${1:Danger}</button>${0}"
+    ],
+    "description": "btn-outline-danger-btn-lg"
+  },
+
+  "btn-outline-warning-btn-lg": {
+    "prefix": "btn-outline-warning-btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-warning btn-lg\">${1:Warning}</button>${0}"
+    ],
+    "description": "btn-outline-warning-btn-lg"
+  },
+
+  "btn-outline-info-btn-lg": {
+    "prefix": "btn-outline-info-btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-info btn-lg\">${1:Info}</button>${0}"
+    ],
+    "description": "btn-outline-info-btn-lg"
+  },
+
+  "btn-outline-light-btn-lg": {
+    "prefix": "btn-outline-light-btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-light btn-lg\">${1:Light}</button>${0}"
+    ],
+    "description": "btn-outline-light-btn-lg"
+  },
+
+  "btn-outline-dark-btn-lg": {
+    "prefix": "btn-outline-dark-btn-lg",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-dark btn-lg\">${1:Dark}</button>${0}"
+    ],
+    "description": "btn-outline-dark-btn-lg"
+  },
+
+  //   small size
+  "btn-outline-primary-btn-sm": {
+    "prefix": "btn-outline-primary btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-primary btn-sm\">${1:Primary}</button>${0}"
+    ],
+    "description": "btn-outline-primary btn-sm"
+  },
+
+  "btn-outline-secondary-btn-sm": {
+    "prefix": "btn-outline-secondary-btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-secondary btn-sm\">${1:Secondary}</button>${0}"
+    ],
+    "description": "btn-outline-secondary-btn-sm"
+  },
+
+  "btn-outline-success-btn-sm": {
+    "prefix": "btn-outline-success-btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-success btn-sm\">${1:Success}</button>${0}"
+    ],
+    "description": "btn-outline-success btn-sm"
+  },
+
+  "btn-outline-danger-btn-sm": {
+    "prefix": "btn-outline-danger-btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-danger btn-sm\">${1:Danger}</button>${0}"
+    ],
+    "description": "btn-outline-danger-btn-sm"
+  },
+
+  "btn-outline-warning-btn-sm": {
+    "prefix": "btn-outline-warning-btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-warning btn-sm\">${1:Warning}</button>${0}"
+    ],
+    "description": "btn-outline-warning-btn-sm"
+  },
+
+  "btn-outline-info-btn-sm": {
+    "prefix": "btn-outline-info-btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-info btn-sm\">${1:Info}</button>${0}"
+    ],
+    "description": "btn-outline-info-btn-sm"
+  },
+
+  "btn-outline-light-btn-sm": {
+    "prefix": "btn-outline-light-btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-light btn-sm\">${1:Light}</button>${0}"
+    ],
+    "description": "btn-outline-light-btn-sm"
+  },
+
+  "btn-outline-dark-btn-sm": {
+    "prefix": "btn-outline-dark-btn-sm",
+    "body": [
+      "<button type=\"button\" class=\"btn btn-outline-dark btn-sm\">${1:Dark}</button>${0}"
+    ],
+    "description": "btn-outline-dark-btn-sm"
+  }
+}

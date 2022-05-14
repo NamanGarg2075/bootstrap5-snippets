@@ -1,3 +1,3 @@
-# bootstrap5-snippets README
+# Bootstrap5-snippets
 
-## COMING SOON
+### Full Guide [CLICK HERE](https://designatory.github.io/extentions)

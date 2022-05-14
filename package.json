@@ -22,6 +22,14 @@
       {
         "language": "html",
         "path": "./snippets/buttons/outline/buttons-outline.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/buttons/simple/buttons-size.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/buttons/outline/buttons-size.code-snippets"
       }
     ]
   }
