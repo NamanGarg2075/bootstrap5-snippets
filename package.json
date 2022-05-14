@@ -2,13 +2,31 @@
   "name": "bootstrap5-snippets",
   "displayName": "bootstrap5-snippets",
   "description": "\"Demo\"",
-  "version": "0.0.1",
+  "version": "0.0.0",
+  "publisher": "NamanGarg",
+  "icon": "img/logo.png",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.66.0"
   },
   "categories": [
-    "Snippets"
+    "Programming Languages",
+    "Snippets",
+    "Other"
   ],
+  "keywords": [
+    "html",
+    "bootstrap",
+    "bootstrap5"
+  ],
+  "bugs": {
+    "url": "https://github.com/Designatory/bootstrap5-snippets/issues"
+  },
+  "homepage": "https://github.com/Designatory/bootstrap5-snippetsREADME.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Designatory/bootstrap5-snippets.git"
+  },
   "contributes": {
     "snippets": [
       {
