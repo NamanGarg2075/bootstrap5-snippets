@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap5-snippets",
-  "displayName": "bootstrap5-snippets",
+  "name": "bootstrap5-snippets-helper",
+  "displayName": "Bootstrap5 Snippets - Intellisense",
   "description": "Best Extension for bootstrap snippets in vscode",
   "version": "0.0.1",
   "publisher": "NamanGarg",
